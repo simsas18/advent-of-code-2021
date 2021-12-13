@@ -1,4 +1,3 @@
-
 fun main() {
 
     fun calculateFishCount(input: List<String>, dayCount: Int): Long {
